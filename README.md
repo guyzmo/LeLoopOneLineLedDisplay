@@ -6,7 +6,17 @@ Open a serial terminal on your Arduino, and juste write text on it.
 HOW TO COMPILE
 ==============
 
-Use a damn arduino IDE, or get my Makefile from Arduino-Tools repository
+Use a damn arduino IDE, or just do :
+
+ % PORT=/dev/tty.damnUSBport make upload
+
+if you're using something else than an Arduino Uno, get it from :
+
+ % make list
+
+and do (with e.g. an Arduino duemilanove):
+
+ % ARDUINO=atmega328 PORT=/dev/tty.damnUSBport make upload
 
 WHERE TO GET THE SOURCES
 ========================
