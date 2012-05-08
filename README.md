@@ -24,4 +24,5 @@ Patches and improvements are also welcome!
 CONTRIBS
 ========
 
-Thanks to my friend Clem who gave me the font I'm using to display on it.
+Thanks to my friend Clem who gave me the font I'm using to display on it, 
+and to my friends gric and lekernel who helped me out starting on that one.
